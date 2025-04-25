@@ -15,3 +15,16 @@ Tools Used🛠️ : MySQL WorkBench
 
 
 
+# Combined README for Multiple Repositories
+
+##  Case Study #1 - Danny's Diner: [Case Study #1 - Danny's Diner👨🏻‍🍳]
+Add the content of `README.md` from Repository 1 here.
+
+## Repository 2: [Repo 2 Name]
+Add the content of `README.md` from Repository 2 here.
+
+## Repository 3: [Repo 3 Name]
+Add the content of `README.md` from Repository 3 here.
+
+## Repository 4: [Repo 4 Name]
+Add the content of `README.md` from Repository 4 here.
