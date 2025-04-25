@@ -1,4 +1,4 @@
-# 8_Week_SQL_challenge
+# 8 Week SQL challenge🔍
 
 This repository serves as a comprehensive solution for the #8WeekSQLChallenge, encompassing eight distinct case studies.The repository is a testament to my prowess in SQL, as it demonstrates my adeptness in solving diverse SQL challenges and showcases my expertise in query composition and problem-solving. These case studies cover a wide array of topics, including ranking, common table expressions (CTEs), datetime functions, text manipulation, aggregation, NULL handling, and more.
 
