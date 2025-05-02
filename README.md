@@ -14,4 +14,4 @@ Don't forget to follow and star ⭐ the repository if you find it valuable.
 Tools Used🛠️ : MySQL WorkBench
 
 ## Contents
-[Danny's Dinner Case Study Repository](https://github.com/Gaurav-Khadse/Case-Study-2-Danny-s-Dinner)
+[Case-Study-2-Danny-s-Dinner](https://github.com/Gaurav-Khadse/Case-Study-2-Danny-s-Dinner)
