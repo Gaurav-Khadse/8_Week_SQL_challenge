@@ -13,6 +13,8 @@ Don't forget to follow and star ⭐ the repository if you find it valuable.
 
 Tools Used🛠️ : MySQL WorkBench
 
+[8 Week SQL Challenge](https://8weeksqlchallenge.com/)
+
 ## Contents📝
 [Case-Study-1-Danny's Diner](https://github.com/Gaurav-Khadse/Case-Study-1-Danny-s-Dinner)
 
